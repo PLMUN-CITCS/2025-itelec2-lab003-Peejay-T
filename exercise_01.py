@@ -5,8 +5,7 @@
 
    count = 10                  
    Count = 15                  
-   decimal_value = 3.14         
-
+   decimal_value = 3.14        
    message = "Hello, Python!"   
    is_active = True             
    result = None                
